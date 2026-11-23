@@ -35,7 +35,7 @@ study-tracker/
 
 1. Clone or download this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Zain-R98/Study-Tracker.git
    ```
 2. Open `index.html` directly in any web browser. No external dependencies, server setup, or build tools required.
 
