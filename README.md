@@ -20,14 +20,8 @@ A lightweight, clean productivity web application having a customizable **Focus 
   * Clean, responsive CSS variable theme toggling saved across sessions.
 
 
-## Project Structure
+### Live Demo: https://zain-r98.github.io/Study-Tracker/
 
-```text
-study-tracker/
-├── index.html    # Application structure and core logic
-├── styles.css    # Clean CSS custom properties & theme styles
-└── README.md     # Project documentation
-```
 
 ## 🚀 Getting Started
 
